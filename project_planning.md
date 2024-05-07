@@ -3,7 +3,11 @@
 #+STARTUP: inlineimages
 #+DATE: 04/15/2024
 
-Watch the video here:
+WATCH THE VIDEO HERE:
+
+<a href="https://www.youtube.com/embed/9n5SE7M9y1U?si=RiTROMmUjJxf5GDt" target="_blank">
+<img src="https://i9.ytimg.com/vi_webp/9n5SE7M9y1U/mq2.webp?sqp=CIiu6bEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgWihlMA8=&rs=AOn4CLBjD6hWW986jqJ4ogNELzgKBCMCEg" >
+</a>
 
 
 [![Watch the video](https://i9.ytimg.com/vi_webp/9n5SE7M9y1U/mq2.webp?sqp=CIiu6bEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgWihlMA8=&rs=AOn4CLBjD6hWW986jqJ4ogNELzgKBCMCEg)](https://www.youtube.com/embed/9n5SE7M9y1U?si=RiTROMmUjJxf5GDt)
