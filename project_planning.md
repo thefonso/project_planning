@@ -3,10 +3,15 @@
 #+STARTUP: inlineimages
 #+DATE: 04/15/2024
 
+Watch the video here:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9n5SE7M9y1U?si=imGoaunc2WXjOoVg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-YouTube: https://youtu.be/9n5SE7M9y1U?si=sBOwcM0rwr-3PbSz
+[![Watch the video](https://i9.ytimg.com/vi_webp/9n5SE7M9y1U/mq2.webp?sqp=CIiu6bEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgWihlMA8=&rs=AOn4CLBjD6hWW986jqJ4ogNELzgKBCMCEg)](https://www.youtube.com/embed/9n5SE7M9y1U?si=RiTROMmUjJxf5GDt)
+
+
+
+
+Or on YouTube: https://youtu.be/9n5SE7M9y1U?si=sBOwcM0rwr-3PbSz
 
 ### Project Planning
 
