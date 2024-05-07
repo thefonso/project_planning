@@ -152,27 +152,5 @@ https://www.aha.io/roadmapping/guide/agile/what-is-a-daily-standup
 
 
 
-### Trello
 
-Navigate to trello.com and create a free account.
-
-(screenshot)
-
-
-
-Select "Basic Project Board" template
-
-- Brainstorm
-- To Do
-- Doing
-- Done
-
-  Now take a peek at the Trello teams's 5 min Demo to get a feel on how cards work...
-
-resources:
-https://www.youtube.com/watch?v=xky48zyL9iA
-
-
-
-GitHub team work - pull request
 
