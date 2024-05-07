@@ -3,7 +3,7 @@
 #+STARTUP: inlineimages
 #+DATE: 04/15/2024
 
-WATCH THE VIDEO HERE:
+WATCH THE VIDEO HERE: (note- you will have to press the back button to get back to this page after clicking below OR hold down the control key before clicking the video image below, to open it in a new tab)
 
 <a href="https://www.youtube.com/embed/9n5SE7M9y1U?si=RiTROMmUjJxf5GDt" target="_blank">
 <img src="https://i9.ytimg.com/vi_webp/9n5SE7M9y1U/mq2.webp?sqp=CIiu6bEG-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGEwgWihlMA8=&rs=AOn4CLBjD6hWW986jqJ4ogNELzgKBCMCEg" >
