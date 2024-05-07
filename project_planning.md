@@ -22,7 +22,7 @@ Let's say for the sake of this conversation our project will take 1 week to comp
 
 (screenshot)
 
-![Screenshot from 2024-04-30 15-05-36](./Project_Planning/Screenshot from 2024-04-30 15-05-36.png)
+![Screenshot from 2024-04-30 15-05-36](./Project_Planning/Screenshot_from_2024-04-30_15-05-36.png)
 
 Now we are ready to go to GitHub and select "Issues" on our repository page.
 
@@ -30,13 +30,13 @@ Now we are ready to go to GitHub and select "Issues" on our repository page.
 
 (screenshot here)
 
-![issues main page](./Project_Planning/Screenshot from 2024-04-26 13-31-00.png)
+![issues main page](./Project_Planning/Screenshot_from_2024-04-26 13-31-00.png)
 
 under "Add a title" we just copy paste the bullet point text (or a shortend variation of it).
 
 (screenshot here)
 
-![add title](./Project_Planning/Screenshot from 2024-04-26 14-34-12.png)
+![add title](./Project_Planning/Screenshot_from_2024-04-26_14-34-12.png)
 
 next under description we copy paste our detailed User Story description.
 
@@ -44,13 +44,13 @@ Now this part will require you to be flexible as you will be converting your cli
 
 (screenshot of Big idea text / Phases bullet points / User stories / Issues)
 
-![big idea](./Project_Planning/Screenshot from 2024-04-26 14-35-52.png)
+![big idea](./Project_Planning/Screenshot_from_2024-04-26_14-35-52.png)
 
 Next, associate different "issues" with different "Milestones"
 
 (screenshot)
 
-![milestones](./Project_Planning/Screenshot from 2024-04-26 14-38-38.png)
+![milestones](./Project_Planning/Screenshot_from_2024-04-26_14-38-38.png)
 
 Milestone due dates
 
@@ -58,17 +58,17 @@ After creating a milestone via an issue's page, navigate to the Milestones landi
 
 (screenshot)
 
-![issues link](./Project_Planning/Screenshot from 2024-04-26 15-31-08.png)
+![issues link](./Project_Planning/Screenshot_from_2024-04-26_15-31-08.png)
 
 Then select the Milestones link...
 
-![milestones link](./Project_Planning/Screenshot from 2024-04-26 15-33-39.png)
+![milestones link](./Project_Planning/Screenshot_from_2024-04-26_15-33-39.png)
 
 ...select "edit" and assign a due date for each of your phases.
 
-![Screenshot from 2024-04-26 15-36-23](./Project_Planning/Screenshot from 2024-04-26 15-36-23.png)
+![Screenshot from 2024-04-26 15-36-23](./Project_Planning/Screenshot_from_2024-04-26_15-36-23.png)
 
-![Screenshot from 2024-04-26 14-54-30](./Project_Planning/Screenshot from 2024-04-26 14-54-30.png)
+![Screenshot from 2024-04-26 14-54-30](./Project_Planning/Screenshot_from_2024-04-26_14-54-30.png)
 
 Now you have a time-line. You can assign phases along any number of days, weeks, etc you see fit.
 
@@ -76,23 +76,23 @@ Now you have a time-line. You can assign phases along any number of days, weeks,
 
 Bonus: GitHub has a relatively new feature called “Projects” that functions just like Trello. Under their template “Team planning” you get To do, In Progress, and Done, list.
 
-![Screenshot from 2024-04-26 15-01-53](./Project_Planning/Screenshot from 2024-04-26 15-01-53.png)
+![Screenshot from 2024-04-26 15-01-53](./Project_Planning/Screenshot_from_2024-04-26_15-01-53.png)
 
 From the templates list, we'll select "Team Planning"...
 
-![Screenshot from 2024-04-26 15-23-18](./Project_Planning/Screenshot from 2024-04-26 15-23-18.png)
+![Screenshot from 2024-04-26 15-23-18](./Project_Planning/Screenshot_from_2024-04-26_15-23-18.png)
 
 You can associate your GitHub repo and then add your “issues” and they will become cards on the project list.
 
-![Screenshot from 2024-04-26 16-02-11](./Project_Planning/Screenshot from 2024-04-26 16-02-11.png)
+![Screenshot from 2024-04-26 16-02-11](./Project_Planning/Screenshot_from_2024-04-26_16-02-11.png)
 
 You can drag a card over to the next list i.e. "In Progress" ...
 
-![Screenshot from 2024-04-26 16-14-36](./Project_Planning/Screenshot from 2024-04-26 16-14-36.png)
+![Screenshot from 2024-04-26 16-14-36](./Project_Planning/Screenshot_from_2024-04-26_16-14-36.png)
 
 and click on it to get info...
 
-![Screenshot from 2024-04-26 16-15-32](./Project_Planning/Screenshot from 2024-04-26 16-15-32.png)
+![Screenshot from 2024-04-26 16-15-32](./Project_Planning/Screenshot_from_2024-04-26_16-15-32.png)
 
 Note the milestone association.
 
@@ -102,7 +102,7 @@ Note the milestone association.
 
 Navigate to Settings / Collaborators and add your team mates github names
 
-![Screenshot from 2024-04-30 11-51-23](./Project_Planning/Screenshot from 2024-04-30 11-51-23.png)
+![Screenshot from 2024-04-30 11-51-23](./Project_Planning/Screenshot_from_2024-04-30_11-51-23.png)
 
 
 
